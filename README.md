@@ -40,7 +40,7 @@ While much of this application relies on a boilerplate code structure, building 
 
 ## Screenshots
 
-![Screenshot of my project](./Images/screenshot.png)
+![Screenshot of my project](./Images/Screenshot.PNG)
 
 ## Technologies Used
 
